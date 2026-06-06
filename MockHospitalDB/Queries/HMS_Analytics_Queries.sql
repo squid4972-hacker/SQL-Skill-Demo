@@ -1,5 +1,5 @@
 -- Hospital Management System
--- Reporting & Analytics Queries Only
+-- Reporting & analytics queries only please see "HMS_Analytics_Queries.sql" for database implementation.
 
 -- 1. Department Patient Assignment
 SELECT
